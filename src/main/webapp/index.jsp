@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Página Principal</title>
+</head>
+<body>
+    <h1>Bienvenido</h1>
+    <ul>
+        <li><a href="generarQR.jsp">Generar QR</a></li>
+        <li><a href="login.jsp">Administrar Asistencias</a></li>
+        <li><a href="otro.jsp">Otra Función</a></li>
+    </ul>
+</body>
+</html>

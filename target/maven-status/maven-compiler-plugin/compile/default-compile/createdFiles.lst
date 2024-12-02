@@ -1,0 +1,3 @@
+db\DatabaseConnection.class
+com\mycompany\empresa\JakartaRestConfiguration.class
+com\mycompany\empresa\resources\JakartaEE11Resource.class
